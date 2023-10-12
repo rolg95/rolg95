@@ -1,3 +1,7 @@
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 ## 💎 Eu:
 Entusiasta da tecnologia e inovação.
 
@@ -46,9 +50,3 @@ Além disso, tenho uma grande satisfação ao compartilhar meu conhecimento como
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
 </p>
 </details>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
