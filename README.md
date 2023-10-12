@@ -1,3 +1,15 @@
+## 💎 Eu:
+Entusiasta da tecnologia e inovação.
+
+Em minha jornada aprimorei minhas habilidades em linguagens como PHP, CSS/HTML, Java Script, Python, C#, SQL, e trabalhei extensivamente com plataformas como Bootstrap, WordPress e Elementor. Além disso, tenho grande interesse em explorar aplicações de machine learning e inteligência artificial.
+
+Minha experiência abrange diversas áreas incluindo Web Design, UX, UI, SEO, Marketing Digital e Desenvolvimento, com foco especial em Front-end.
+
+Tive também a oportunidade de trabalhar como Gerente de Projetos desde o levantamento de requisitos até a gestão do backlog.
+
+Além disso, tenho uma grande satisfação ao compartilhar meu conhecimento como Docente.
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rolg/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@Rolg) 
 
